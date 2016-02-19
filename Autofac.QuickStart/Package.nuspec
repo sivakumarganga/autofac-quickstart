@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Autofac.QuickStart</id>
+    <version>1.0.5</version>
+    <title>Autofac.QuickStart</title>
+    <authors>Sivakumar Siddam</authors>
+    <owners></owners>
+    <description>
+      Quick start for Autofac ASP.Net Mvc integration, this package will adds the needed dependencies and code examples to quickly started  Autofac IOC with the Asp.Net Mvc.
+    </description>
+    <releaseNotes>
+    </releaseNotes>
+    <summary>
+      Quick start for Autofac ASP.Net Mvc integration, this package will adds the needed dependencies and code examples to quickly started  Autofac IOC with the Asp.Net Mvc.
+    </summary>
+    <language>en-US</language>
+    <projectUrl>https://nuget.org/packages/Autofac.QuickStart</projectUrl>
+    <iconUrl>https://nuget.org/Content/Images/packageDefaultIcon-50x50.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl>
+    <copyright>Copyright  2016</copyright>
+    <dependencies>
+      <dependency id="log4net" version="1.2.10" />
+      <dependency id="Autofac" version="3.5.2" />
+      <dependency id="Autofac.Mvc4" version="3.1.0" />
+      <dependency id="WebActivator" version=""/>
+    </dependencies>
+    <references></references>
+    <tags>quick start, autofac, autofac mvc architecture dependency-injection DI easy easy-to-use, 
+    Inverstion-of-Control
+    ,IOD,Dependecy Resolver</tags>
+  </metadata>
+  <files>
+    <file src="lib\" target="lib" />
+    <file src="tools\" target="tools" />
+    <file src="content\" target="content" />
+  </files>
+</package>

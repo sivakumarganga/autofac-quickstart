@@ -1,0 +1,6 @@
+C:\Core\Rack\Autofac.QuickStart\Autofac.QuickStart\bin\Debug\Autofac.QuickStart.dll
+C:\Core\Rack\Autofac.QuickStart\Autofac.QuickStart\bin\Debug\Autofac.QuickStart.pdb
+C:\Core\Rack\Autofac.QuickStart\Autofac.QuickStart\obj\Debug\Autofac.QuickStart.dll
+C:\Core\Rack\Autofac.QuickStart\Autofac.QuickStart\obj\Debug\Autofac.QuickStart.pdb
+C:\Core\Rack\Autofac.QuickStart\Autofac.QuickStart\bin\Debug\Autofac.QuickStart.dll.config
+C:\Core\Rack\Autofac.QuickStart\Autofac.QuickStart\obj\Debug\Autofac.QuickStart.csprojResolveAssemblyReference.cache

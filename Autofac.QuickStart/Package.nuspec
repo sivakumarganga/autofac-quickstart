@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Autofac.QuickStart</id>
-    <version>1.0.5</version>
+    <version>1.7</version>
     <title>Autofac.QuickStart</title>
     <authors>Sivakumar Siddam</authors>
     <owners></owners>
@@ -21,10 +21,10 @@
     <licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl>
     <copyright>Copyright  2016</copyright>
     <dependencies>
-      <dependency id="log4net" version="1.2.10" />
-      <dependency id="Autofac" version="3.5.2" />
-      <dependency id="Autofac.Mvc4" version="3.1.0" />
-      <dependency id="WebActivator" version=""/>
+      <dependency id="log4net" version="2.0.8" />
+      <dependency id="Autofac" version="4.8.1" />
+      <dependency id="Autofac.Mvc5" version="4.0.2" />
+      <dependency id="WebActivator" version="1.5.3"/>
     </dependencies>
     <references></references>
     <tags>quick start, autofac, autofac mvc architecture dependency-injection DI easy easy-to-use, 

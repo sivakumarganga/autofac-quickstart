@@ -4,3 +4,10 @@ C:\Core\Rack\Autofac.QuickStart\Autofac.QuickStart\obj\Debug\Autofac.QuickStart.
 C:\Core\Rack\Autofac.QuickStart\Autofac.QuickStart\obj\Debug\Autofac.QuickStart.pdb
 C:\Core\Rack\Autofac.QuickStart\Autofac.QuickStart\bin\Debug\Autofac.QuickStart.dll.config
 C:\Core\Rack\Autofac.QuickStart\Autofac.QuickStart\obj\Debug\Autofac.QuickStart.csprojResolveAssemblyReference.cache
+C:\Users\trinath.i.TECHNOVERT\Documents\GitHub\autofac-quickstart\Autofac.QuickStart\bin\Debug\Autofac.QuickStart.dll.config
+C:\Users\trinath.i.TECHNOVERT\Documents\GitHub\autofac-quickstart\Autofac.QuickStart\bin\Debug\Autofac.QuickStart.dll
+C:\Users\trinath.i.TECHNOVERT\Documents\GitHub\autofac-quickstart\Autofac.QuickStart\bin\Debug\Autofac.QuickStart.pdb
+C:\Users\trinath.i.TECHNOVERT\Documents\GitHub\autofac-quickstart\Autofac.QuickStart\obj\Debug\Autofac.QuickStart.csproj.CoreCompileInputs.cache
+C:\Users\trinath.i.TECHNOVERT\Documents\GitHub\autofac-quickstart\Autofac.QuickStart\obj\Debug\Autofac.QuickStart.dll
+C:\Users\trinath.i.TECHNOVERT\Documents\GitHub\autofac-quickstart\Autofac.QuickStart\obj\Debug\Autofac.QuickStart.pdb
+C:\Users\trinath.i.TECHNOVERT\Documents\GitHub\autofac-quickstart\Autofac.QuickStart\obj\Debug\Autofac.QuickStart.csprojAssemblyReference.cache
